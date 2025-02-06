@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/planetsTextures/2k_jupiter.png</file>
+        <file>images/planetsTextures/2k_mars.png</file>
+        <file>images/planetsTextures/2k_mercury.png</file>
+        <file>images/planetsTextures/2k_moon.png</file>
+        <file>images/planetsTextures/2k_neptune.png</file>
+        <file>images/planetsTextures/2k_saturn.png</file>
+        <file>images/planetsTextures/2k_sun.png</file>
+        <file>images/planetsTextures/2k_uranus.png</file>
+        <file>images/planetsTextures/2k_venus_surface.png</file>
+        <file>images/planetsTextures/earth.png</file>
+        <file>images/planetsTextures/planetEarth.png</file>
+        <file>images/planetsTextures/planetPluto.png</file>
+        <file>images/planetsTextures/plu0rss1.png</file>
+        <file>images/planetsTextures/viaLacteaTex.png</file>
+        <file>images/planetsTextures/badStar.png</file>
+    </qresource>
+</RCC>

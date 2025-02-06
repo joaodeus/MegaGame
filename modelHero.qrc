@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assetsmodels/hero/Hero.qml</file>
+        <file>assetsmodels/hero/meshes/body.mesh</file>
+        <file>assetsmodels/Arrow/Arrow.qml</file>
+        <file>assetsmodels/Arrow/meshes/arrow.mesh</file>
+        <file>assetsmodels/Bow_Wooden/Bow_Wooden.qml</file>
+        <file>assetsmodels/Bow_Wooden/meshes/bow_Wooden.mesh</file>
+        <file>assetsmodels/HeroArrowShoot/HeroArrowShoot.qml</file>
+        <file>assetsmodels/HeroArrowShoot/meshes/body1.mesh</file>
+    </qresource>
+</RCC>

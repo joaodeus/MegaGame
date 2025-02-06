@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assetsmodels/pandora/Pandora.qml</file>
+        <file>assetsmodels/pandora/meshes/body.mesh</file>
+    </qresource>
+</RCC>

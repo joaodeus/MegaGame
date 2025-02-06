@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>blender/HorseUlysses/HorseUlysses.qml</file>
+        <file>blender/HorseUlysses/meshes/skin.mesh</file>
+    </qresource>
+</RCC>

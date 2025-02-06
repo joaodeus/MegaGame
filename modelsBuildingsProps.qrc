@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assetsmodels/Sawmill/Sawmill.qml</file>
+        <file>assetsmodels/Sawmill/meshes/sawmill.mesh</file>
+        <file>assetsmodels/Path_Straight/Path_Straight.qml</file>
+        <file>assetsmodels/Path_Straight/meshes/path_Straight.mesh</file>
+        <file>assetsmodels/Building1_Large/Building1_Large.qml</file>
+        <file>assetsmodels/Building1_Large/meshes/building1_Large.mesh</file>
+        <file>assetsmodels/Houses_FirstAge_2_Level2/Houses_FirstAge_2_Level2.qml</file>
+        <file>assetsmodels/Houses_FirstAge_2_Level2/meshes/houses_FirstAge_2_Level2.mesh</file>
+        <file>assetsmodels/TownCenter_SecondAge_Level3/meshes/townCenter_SecondAge_Level3_mesh.mesh</file>
+        <file>assetsmodels/TownCenter_SecondAge_Level3/TownCenter_SecondAge_Level3.qml</file>
+        <file>assetsmodels/House1/meshes/house1_mesh.mesh</file>
+        <file>assetsmodels/House1/House1.qml</file>
+        <file>assetsmodels/House2/meshes/house2_mesh7.mesh</file>
+        <file>assetsmodels/House2/House2.qml</file>
+    </qresource>
+</RCC>

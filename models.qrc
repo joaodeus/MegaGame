@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>models/boatSail/BoatWSail.qml</file>
+        <file>models/boatSail/meshes/boat.mesh</file>
+        <file>models/boatSail/meshes/sail.mesh</file>
+        <file>models/sword/Sword2.qml</file>
+        <file>models/sword/meshes/cube1_default.mesh</file>
+        <file>models/sword/sword2.mtl</file>
+        <file>assetsmodels/bush1/Bush1.qml</file>
+        <file>assetsmodels/bush1/meshes/bush1.mesh</file>
+        <file>assetsmodels/slime/Slime.qml</file>
+        <file>assetsmodels/slime/meshes/slime.mesh</file>
+        <file>assetsmodels/TownCenter/TownCenter.qml</file>
+        <file>assetsmodels/TownCenter/meshes/townCenter_FirstAge_Level3.mesh</file>
+        <file>assetsmodels/streets/Street_Straight/Street_Straight.qml</file>
+        <file>assetsmodels/streets/Street_Straight/meshes/street_Straight.mesh</file>
+        <file>assetsmodels/streets/Street_Deadend/Street_Deadend.qml</file>
+        <file>assetsmodels/streets/Street_Deadend/meshes/street_Deadend.mesh</file>
+        <file>assetsmodels/streets/Street.qml</file>
+        <file>assetsmodels/streets/Street_Curve/Street_Curve.qml</file>
+        <file>assetsmodels/streets/Street_Curve/meshes/street_Curve.mesh</file>
+        <file>assetsmodels/streets/Street_4Way_2/Street_4Way_2.qml</file>
+        <file>assetsmodels/streets/Street_4Way_2/meshes/street_4Way_2.mesh</file>
+        <file>assetsmodels/Arrow_Golden/Arrow.qml</file>
+        <file>assetsmodels/Arrow_Golden/Arrow_Golden.qml</file>
+        <file>assetsmodels/Arrow_Golden/meshes/arrow_Golden.mesh</file>
+        <file>assetsmodels/Coin_Star/meshes/cylinder_012_mesh3.mesh</file>
+        <file>assetsmodels/Coin_Star/Coin_Star.qml</file>
+        <file>assetsmodels/Environment_Cliff2/meshes/mesh_004_mesh.mesh</file>
+        <file>assetsmodels/Environment_Cliff2/Environment_Cliff2.qml</file>
+    </qresource>
+</RCC>

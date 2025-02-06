@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assetsmodels/tree2/Tree2.mtl</file>
+        <file>assetsmodels/tree2/Tree2.qml</file>
+        <file>assetsmodels/tree2/meshes/tree2_Cylinder_007.mesh</file>
+        <file>assetsmodels/Mountain_Group_2/Mountain_Group_2.qml</file>
+        <file>assetsmodels/Mountain_Group_2/meshes/mountain_Group_2.mesh</file>
+        <file>assetsmodels/Resource_PineTree_Group/Resource_PineTree_Group.qml</file>
+        <file>assetsmodels/Resource_PineTree_Group/meshes/resource_PineTree_Group.mesh</file>
+        <file>assetsmodels/MountainLarge_Single/MountainLarge_Single.qml</file>
+        <file>assetsmodels/MountainLarge_Single/meshes/mountainLarge_Single.mesh</file>
+        <file>assetsmodels/Port_FirstAge_Level2/Port_FirstAge_Level2.qml</file>
+        <file>assetsmodels/Port_FirstAge_Level2/meshes/port_FirstAge_Level2.mesh</file>
+        <file>assetsmodels/Mine/Mine.qml</file>
+        <file>assetsmodels/Mine/meshes/mine.mesh</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assetsmodels/david/David.qml</file>
+        <file>assetsmodels/david/meshes/body.mesh</file>
+    </qresource>
+</RCC>
